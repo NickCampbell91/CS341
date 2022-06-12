@@ -1,0 +1,23 @@
+{
+    "contact": {
+      "firstName": "Megan",
+      "lastName": "Campbell",
+      "email": "sillysstuffing17@test.com",
+      "favoriteColor": "Blue",
+      "birthday": "06/14/1996"
+    },
+    "contact2": {
+      "firstName": "Finn",
+      "lastName": "Campbell",
+      "email": "tooyoung@test.com",
+      "favoriteColor": "Orange",
+      "birthday": "04/07/2020"
+    },
+    "contact3": {
+      "firstName": "Ashton",
+      "lastName": "Campbell",
+      "email": "waytooyoung@test.com",
+      "favoriteColor": "Yellow",
+      "birthday": "05/07/2022"
+    }
+  }
